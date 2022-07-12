@@ -1,1 +1,2 @@
-print("chal rela hai apna project")
+a  =print("chal rela hai apna project")
+a
